@@ -25,9 +25,9 @@ nav ol {
   font-family: "PT Sans", sans-serif;
 }
 
-a {
-  text-decoration: none;
-  color: #8f2440;
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
 
 img {
